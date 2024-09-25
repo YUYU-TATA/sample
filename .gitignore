@@ -1,0 +1,9 @@
+#dbを無視
+/test5/
+
+#fol2を無視
+/fol2/
+
+#fol2のgit5は無視しない
+/fol2/*
+!/fol2/git5
